@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -G Ninja -S /Users/lixinzhuang1/IdeaProjects/JNI-demo/cpp -B /Users/lixinzhuang1/IdeaProjects/JNI-demo/cpp/cmake-build-debug
+-- JAVA_HOME is set to /Library/Java/JavaVirtualMachines/jdk-1.8.jdk/Contents/Home
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/lixinzhuang1/IdeaProjects/JNI-demo/cpp/cmake-build-debug
